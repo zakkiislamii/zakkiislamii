@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
   <a href="https://www.instagram.com/zakkiislami/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
@@ -8,7 +8,9 @@
   <a href="mailto:mzislami05@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</p>
-<a href="https://github.com/zakkiislamii">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakkiislamii&layout=compact&theme=chartreuse-dark&langs_count=8" />
-</a>
+</div>
+<div align="center">
+  <a href="https://github.com/zakkiislamii">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakkiislamii&layout=compact&theme=chartreuse-dark&langs_count=8" />
+  </a>
+</div>
