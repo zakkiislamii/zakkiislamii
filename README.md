@@ -1,4 +1,4 @@
-<div align="center" style="margin-bottom: 20px;">
+<div align="center" style="margin-bottom: 100px;">
   <a href="https://www.instagram.com/zakkiislami/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
